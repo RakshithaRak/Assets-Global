@@ -2,7 +2,7 @@ import './AboutUsIntro.scss'
 import React, { useEffect, useState } from 'react';
 import { GoShieldCheck } from "react-icons/go";
 // import introBgImg from '../../assets/images/introBGImg.jpg'
-import sampleVideo from '../videos/samplevideo1.mp4'
+// import sampleVideo from '../videos/samplevideo1.mp4'
 
 const subTitles = ['Trusted by 5,000+ Families', 'Global Presence in 30+ Cities', '100+ Employees', 'Avail Zero Brokerage']
 const propertyShowVideo = `https://www.youtube.com/embed/V8vmHd2XvT8?autoplay=1&mute=1`;
